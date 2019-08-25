@@ -79,3 +79,9 @@ body {
   font-size: 14px;
   font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
   }
+.caption {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #6200EA;
+  font-family: 'Open Sans', sans-serif;
+}
